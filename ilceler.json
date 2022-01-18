@@ -1,0 +1,45 @@
+[
+
+	{
+		"Ilcenin Adi": "Ardahan İl Merkezi",
+		"Nufus": "41.658",
+		"ResimUrl": "https://raw.githubusercontent.com/YasarCK/hr200021yasarcankoc/main/merkez.jpg",
+		"Rakim": "1.799"
+	},
+
+	{
+		"Ilcenin Adi": "Çıldır",
+		"Nufus": "9.247",
+		"ResimUrl": "https://raw.githubusercontent.com/YasarCK/hr200021yasarcankoc/main/cildir.jpg",
+		"Rakim": "1.911"
+	},
+
+	{
+		"Ilcenin Adi": "Damal",
+		"Nufus": "5.172",
+		"ResimUrl": "https://raw.githubusercontent.com/YasarCK/hr200021yasarcankoc/main/damal.jpg",
+		"Rakim": "2.056"
+	},
+
+	{
+		"Ilcenin Adi": "Göle",
+		"Nufus": "24.822",
+		"ResimUrl": "https://raw.githubusercontent.com/YasarCK/hr200021yasarcankoc/main/gole.jpg",
+		"Rakim": "2.020"
+	},
+
+	{
+		"Ilcenin Adi": "Hanak",
+		"Nufus": "8.683",
+		"ResimUrl": "https://raw.githubusercontent.com/YasarCK/hr200021yasarcankoc/main/hanak.jpg",
+		"Rakim": "1.826"
+	},
+
+	{
+		"Ilcenin Adi": "Posof",
+		"Nufus": "6.579",
+		"ResimUrl": "https://raw.githubusercontent.com/YasarCK/hr200021yasarcankoc/main/posof.jpg",
+		"Rakim": "1.546"
+	}
+
+]
